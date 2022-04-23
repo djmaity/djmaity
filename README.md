@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dibyajyoti Maity @djmaity.
 - 👀 I’m interested in structural bioinformatics.
 - 🌱 I’m currently learning deep learning.
-- 💞️ I’m looking to collaborate on any interesting Python project.
+- 💞️ I’m looking to collaborate on [md-davis](https://github.com/djmaity/md-davis).
 - 📫 How to reach me djdibs@gmail.com
 
 <!---
